@@ -2,7 +2,7 @@
 
 ![](./img/logo.png)
 
-In this project, I extract data from ESPN and do some basic data wrangling.
+![](./img/lebron.webp) ![](./img/kobe.webp) ![](./img/michealJordan.webp)
 
 ## Tools: 
     - Jupyter Notebook
